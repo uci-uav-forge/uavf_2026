@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OCMA Flight Boundary</name>
+    <trkseg>
+      <trkpt lat="-35.365703454301155" lon="149.16677677235947">
+      </trkpt>
+      <trkpt lat="-35.36641390492715" lon="149.1618282696051">
+      </trkpt>
+      <trkpt lat="-35.36115871602462" lon="149.16123079073918">
+      </trkpt>
+      <trkpt lat="-35.360247156190105" lon="149.16568186443976">
+      </trkpt>
+      <trkpt lat="-35.365703454301155" lon="149.16677677235947">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>OCMA Airdrop Boundary</name>
+    <trkseg>
+      <trkpt lat="-35.36251682132899" lon="149.16200536919234">
+      </trkpt>
+      <trkpt lat="-35.362355344560356" lon="149.16339142329338">
+      </trkpt>
+      <trkpt lat="-35.364032893021694" lon="149.16376543789386">
+      </trkpt>
+       <trkpt lat="-35.3642033371706" lon="149.16229138035732">
+      </trkpt>
+      <trkpt lat="-35.36251682132899" lon="149.16200536919234">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>OCMA Mission</name>
+    <trkseg>
+      <trkpt lat="-35.3621938674677" lon="149.16509648984788">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="-35.36142737168552" lon="149.1645104029842">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="-35.36103035403823" lon="149.16350559713652">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="-35.361680198051864" lon="149.16240805199828">
+        <ele>25.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

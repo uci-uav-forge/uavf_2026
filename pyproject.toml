@@ -1,0 +1,47 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["uavf_2025/gnc", "uavf_2025/perception", "uavf_2025/shared"]
+
+[project]
+name = "uavf_2025"
+version = "0.1.0"
+description = "UAV Forge Flight Software 2025"
+readme = "README.md"
+
+requires-python = ">=3.10, <=3.11"
+dependencies = [
+    "pymap3d",
+    "line_profiler",
+    "numpy",
+    "opencv-python",
+    "pytest",
+    "torch",
+    "scipy",
+    "ruff",
+    "pre-commit",
+    "catkin_pkg",
+    "tqdm",
+    "shapely",
+    "gpxpy",
+    "ultralytics",
+    "sahi",
+    "geographiclib",
+    "websockets",
+    "pymavlink",
+    "pymap3d",
+    "matplotlib",
+    "shapely",
+    "pyserial",
+    "matplotlib",
+    "shapely",
+    "networkx",
+]
+
+[project.optional-dependencies]
+ros = [
+    "mavros_msgs",
+    "geographic_msgs",
+]

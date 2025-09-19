@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Main Field Flight Boundary</name>
+    <trkseg>
+      <trkpt lat="33.64252739766853" lon="-117.82617295355115">
+      </trkpt>
+      <trkpt lat="33.643090532744736" lon="-117.82575240007078">
+      </trkpt>
+      <trkpt lat="33.64306100515424" lon="-117.82619828809814">
+      </trkpt>
+      <trkpt lat="33.643400571832544" lon="-117.82636802956324">
+      </trkpt>
+      <trkpt lat="33.64284587526164" lon="-117.82676578195115">
+      </trkpt>
+      <trkpt lat="33.64252739766853" lon="-117.82617295355115">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Main Field Airdrop Boundary</name>
+    <trkseg>
+      <trkpt lat="33.64302926604641" lon="-117.82634453491366">
+      </trkpt>
+      <trkpt lat="33.642936874739505" lon="-117.82616979429872">
+      </trkpt>
+      <trkpt lat="33.64285824954813" lon="-117.82622705723583">
+      </trkpt>
+      <trkpt lat="33.64294130497318" lon="-117.82640090429521">
+      </trkpt>
+      <trkpt lat="33.64302926604641" lon="-117.82634453491366">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Main Field Mission</name>
+    <trkseg>
+      <trkpt lat="33.642927229762776" lon="-117.82656861447708">
+        <ele>30.0</ele>
+      </trkpt>
+      <trkpt lat="33.643067614094946" lon="-117.82591897787418">
+        <ele>30.0</ele>
+      </trkpt>
+      <trkpt lat="33.643219256674584" lon="-117.82635974034869">
+        <ele>30.0</ele>
+      </trkpt>
+      <trkpt lat="33.64301483794041" lon="-117.82594677546928">
+        <ele>30.0</ele>
+      </trkpt>
+      <trkpt lat="33.64272944733615" lon="-117.82619391661322">
+        <ele>30.0</ele>
+      </trkpt>
+      <trkpt lat="33.64285307708734" lon="-117.8267473592567">
+        <ele>30.0</ele>
+      </trkpt>
+      <trkpt lat="33.64326046793094" lon="-117.82632270044297">
+        <ele>30.0</ele>
+      </trkpt>
+      <trkpt lat="33.643067614094946" lon="-117.82591897787418">
+        <ele>30.0</ele>
+      </trkpt>
+      <trkpt lat="33.6426410692186" lon="-117.82620821398484">
+        <ele>30.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

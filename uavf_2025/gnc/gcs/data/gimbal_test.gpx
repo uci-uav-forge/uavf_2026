@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>main_field_east</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <trk>
+    <name>Main Field East Flight Boundary</name>
+    <trkseg>
+      <trkpt lat="33.63822759986918" lon="-117.83831810394007">
+        <ele>70.91191168699177</ele>
+      </trkpt>
+      <trkpt lat="33.64635369860754" lon="-117.83267449371631">
+        <ele>28.957272857939962</ele>
+      </trkpt>
+      <trkpt lat="33.650673260853964" lon="-117.84223711814545">
+        <ele>15.446551723872116</ele>
+      </trkpt>
+      <trkpt lat="33.64118487795591" lon="-117.84924643999193">
+        <ele>29.332227720033124</ele>
+      </trkpt>
+      <trkpt lat="33.638220560783935" lon="-117.83822543576308">
+        <ele>71.09952655786262</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Main Field East Airdrop Boundary</name>
+    <trkseg>
+      <trkpt lat="33.64276682090748" lon="-117.8452339137423">
+      </trkpt>
+      <trkpt lat="33.641363619539035" lon="-117.83716183657657">
+      </trkpt>
+      <trkpt lat="33.64510049728136" lon="-117.83607247001109">
+      </trkpt>
+      <trkpt lat="33.64786646729364" lon="-117.84209366904446">
+      </trkpt>
+      <trkpt lat="33.64280107069722" lon="-117.84535268426154">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Main Field East Mission</name>
+    <trkseg>
+      <trkpt lat="33.646846121091386" lon="-117.84408970774311">
+        <ele>22.78944090330109</ele>
+      </trkpt>
+      <trkpt lat="33.64925722664967" lon="-117.84196663929984">
+        <ele>21.8041245486024</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

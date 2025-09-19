@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>OCMA Flight Boundary</name>
+    <author>
+      <name>gpx.studio</name>
+      <link href="https://gpx.studio"/>
+    </author>
+  </metadata>
+  <trk>
+    <name>OCMA Flight Boundary</name>
+    <trkseg>
+      <trkpt lat="33.77105379043476" lon="-117.69338934675768"/>
+      <trkpt lat="33.770786657606635" lon="-117.69481500035793"/>
+      <trkpt lat="33.771252925275164" lon="-117.6971638230923"/>
+      <trkpt lat="33.772105400378294" lon="-117.69701095018254"/>
+      <trkpt lat="33.772575614333434" lon="-117.69304449404115"/>
+      <trkpt lat="33.77191846710902" lon="-117.6924952162056"/>
+      <trkpt lat="33.77105379043476" lon="-117.69338934675768"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Mapping Boundary</name>
+    <trkseg>
+      <trkpt lat="33.77105403612232" lon="-117.69497868768988"/>
+      <trkpt lat="33.771492530199" lon="-117.69485888815014"/>
+      <trkpt lat="33.771875888473744" lon="-117.69475415208342"/>
+      <trkpt lat="33.77193472925844" lon="-117.69529044106852"/>
+      <trkpt lat="33.77199357004313" lon="-117.69582673005364"/>
+      <trkpt lat="33.772052410827825" lon="-117.69636301903874"/>
+      <trkpt lat="33.77205350387979" lon="-117.69637298137577"/>
+      <trkpt lat="33.77162269665908" lon="-117.69652797466716"/>
+      <trkpt lat="33.77140926997369" lon="-117.6966047600664"/>
+      <trkpt lat="33.77129497749725" lon="-117.69608158965889"/>
+      <trkpt lat="33.77118068502081" lon="-117.69555841925137"/>
+      <trkpt lat="33.77106639254437" lon="-117.69503524884385"/>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>OCMA Airdrop Boundary</name>
+    <trkseg>
+      <trkpt lat="33.77137112052981" lon="-117.69672644028606"></trkpt>
+      <trkpt lat="33.77159345522024" lon="-117.6966571855194"></trkpt>
+      <trkpt lat="33.771162681232724" lon="-117.69475148538875"></trkpt>
+      <trkpt lat="33.77094431571112" lon="-117.69483745682302"></trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>OCMA Mission</name>
+    <trkseg>
+      <trkpt lat="33.771028708193384" lon="-117.69492371852597">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77192440921499" lon="-117.6926359606257">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77247603672038" lon="-117.69311292931849">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77202209351128" lon="-117.69689411591152">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.771289390195804" lon="-117.6970785170515">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77108223882193" lon="-117.69491950889605">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77193349844312" lon="-117.6926744273695">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.772457264736076" lon="-117.69312644953627">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77199976167773" lon="-117.69686979986665">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.771307490982196" lon="-117.69704484307644">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.771106363523444" lon="-117.69492702276938">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77194636575673" lon="-117.6927266042556">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77243312685458" lon="-117.69314095790867">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.771979421978" lon="-117.69684611440121">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77132818919404" lon="-117.69701124701051">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.771136390355224" lon="-117.69493308757504">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77195550506268" lon="-117.6927728111041">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77241004212476" lon="-117.69315297544024">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77196535750447" lon="-117.69682402215142">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.771357592672715" lon="-117.69696272383464">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.7711683717214" lon="-117.69493451954595">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.771968887877165" lon="-117.69282095759691">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77239302478408" lon="-117.69316682304307">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.771948259474" lon="-117.69680436406382">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77137674154463" lon="-117.69693311091754">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77120481694696" lon="-117.69494774213328">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77210828698496" lon="-117.69511353427592">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.77189605738785" lon="-117.69668924708427">
+        <ele>50.0</ele>
+      </trkpt>
+      <trkpt lat="33.771418002934" lon="-117.69662735329146">
+        <ele>50.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Flight Boundary</name>
+    <trkseg>
+      <trkpt lat="38.31729702009844" lon="-76.55617670782419">
+      </trkpt>
+      <trkpt lat="38.31594832826572" lon="-76.55657341657302">
+      </trkpt>
+      <trkpt lat="38.31546739500083" lon="-76.55376201277696">
+      </trkpt>
+      <trkpt lat="38.31470980862425" lon="-76.54936361414539">
+      </trkpt>
+      <trkpt lat="38.31424154692598" lon="-76.54662761646904">
+      </trkpt>
+      <trkpt lat="38.31369801280048" lon="-76.54342380058223">
+      </trkpt>
+      <trkpt lat="38.31331079191371" lon="-76.54109648475954">
+      </trkpt>
+      <trkpt lat="38.31529941346197" lon="-76.54052104837133">
+      </trkpt>
+      <trkpt lat="38.31587643291039" lon="-76.54361305817427">
+      </trkpt>
+      <trkpt lat="38.31861642463319" lon="-76.54538594175376">
+      </trkpt>
+      <trkpt lat="38.31862683616554" lon="-76.55206138505936">
+      </trkpt>
+      <trkpt lat="38.31703471119464" lon="-76.55244787859773">
+      </trkpt>
+      <trkpt lat="38.31674255749409" lon="-76.55294546866578">
+      </trkpt>
+      <trkpt lat="38.31729702009844" lon="-76.55617670782419">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Airdrop Boundary</name>
+    <trkseg>
+      <trkpt lat="38.31442311312976" lon="-76.54522971451763">
+      </trkpt>
+      <trkpt lat="38.31421041772561" lon="-76.54400246436776">
+      </trkpt>
+      <trkpt lat="38.31440703962630" lon="-76.54394394383165">
+      </trkpt>
+      <trkpt lat="38.31461622313521" lon="-76.54516993186949">
+      </trkpt>
+      <trkpt lat="38.31442311312976" lon="-76.54522971451763">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Mission</name>
+    <trkseg>
+      <trkpt lat="38.3149255" lon="-76.5420377">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="38.3141342" lon="-76.5422738">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="38.3140585" lon="-76.5446556">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="38.3157505" lon="-76.5540433">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="38.3178718" lon="-76.5504277">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="38.3179223" lon="-76.5463293">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="38.3156074" lon="-76.5440547">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="38.3168027" lon="-76.5506959">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="38.3161209" lon="-76.5518117">
+        <ele>25.0</ele>
+      </trkpt>
+      <trkpt lat="38.3152875" lon="-76.5471125">
+        <ele>25.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

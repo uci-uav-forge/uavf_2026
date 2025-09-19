@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Main Field East Flight Boundary</name>
+    <trkseg>
+      <trkpt lat="33.64181" lon="-117.82502">
+      </trkpt>
+      <trkpt lat="33.64245" lon="-117.82456">
+      </trkpt>
+      <trkpt lat="33.64289" lon="-117.82544">
+      </trkpt>
+      <trkpt lat="33.64225" lon="-117.82589">
+      </trkpt>
+      <trkpt lat="33.64181" lon="-117.82502">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Main Field East Airdrop Boundary</name>
+    <trkseg>
+      <trkpt lat="33.64259" lon="-117.82543">
+      </trkpt>
+      <trkpt lat="33.64248" lon="-117.82518">
+      </trkpt>
+      <trkpt lat="33.64262" lon="-117.82508">
+      </trkpt>
+      <trkpt lat="33.6427" lon="-117.82531">
+      </trkpt>
+      <trkpt lat="33.64259" lon="-117.82543">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Main Field East Mission</name>
+    <trkseg>
+      <trkpt lat="33.64255" lon="-117.82553">
+        <ele>20.0</ele>
+      </trkpt>
+      <trkpt lat="33.64235" lon="-117.82553">
+        <ele>20.0</ele>
+      </trkpt>
+      <trkpt lat="33.64228" lon="-117.82566">
+        <ele>20.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Main Field East Mapping Boundary</name>
+    <trkseg>
+      <trkpt lat="33.64225217922781" lon="-117.82584492961642">
+      </trkpt>
+      <trkpt lat="33.64284547746904" lon="-117.82542421263655">
+      </trkpt>
+      <trkpt lat="33.64243182369978" lon="-117.82459337093012">
+      </trkpt>
+      <trkpt lat="33.64184273616442" lon="-117.82502955261882">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

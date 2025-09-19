@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>Main Field West Flight Boundary</name>
+    <trkseg>
+      <trkpt lat="33.642868" lon="-117.826856">
+      </trkpt>
+      <trkpt lat="33.642573" lon="-117.826184">
+      </trkpt>
+      <trkpt lat="33.64306" lon="-117.825836">
+      </trkpt>
+      <trkpt lat="33.643372" lon="-117.826511">
+      </trkpt>
+      <trkpt lat="33.642868" lon="-117.826856">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Main Field West Airdrop Boundary</name>
+    <trkseg>
+      <trkpt lat="33.642903" lon="-117.826567">
+      </trkpt>
+      <trkpt lat="33.642754" lon="-117.826217">
+      </trkpt>
+      <trkpt lat="33.642928" lon="-117.826061">
+      </trkpt>
+      <trkpt lat="33.643108" lon="-117.826470">
+      </trkpt>
+      <trkpt lat="33.642903" lon="-117.826567">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Main Field West Mission</name>
+    <trkseg>
+      <trkpt lat="33.643091" lon="-117.826278">
+        <ele>20.0</ele>
+      </trkpt>
+      <trkpt lat="33.643175" lon="-117.826521">
+        <ele>20.0</ele>
+      </trkpt>
+      <trkpt lat="33.642895" lon="-117.826677">
+        <ele>20.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Main Field West Mapping Boundary</name>
+    <trkseg>
+      <trkpt lat="33.642644" lon="-117.826210">
+      </trkpt>
+      <trkpt lat="33.642886" lon="-117.826762">
+      </trkpt>
+      <trkpt lat="33.643280" lon="-117.826493">
+      </trkpt>
+      <trkpt lat="33.643036" lon="-117.825940">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

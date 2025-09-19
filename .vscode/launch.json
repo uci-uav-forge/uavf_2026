@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Debug Perception CLI",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/uavf_2025/perception/dev/perception_cli.py",
+            "args": "a8",
+            // "python": "/home/forge/ardu_ws/src/uavf_2025/venv/bin/python3",
+            // "env": {"PYTHONPATH": "${workspaceFolder}/src:${workspaceFolder}/venv/lib/python3.10/site-packages"},
+            "env": {"LINE_PROFILE": "1"}
+        },
+        {
+            "name": "Debug Projection Math",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/tests/perception/projection_test.py",
+            // "python": "/home/forge/ardu_ws/src/uavf_2025/venv/bin/python3",
+            // "env": {"PYTHONPATH": "${workspaceFolder}/src:${workspaceFolder}/venv/lib/python3.10/site-packages"},
+        },
+        {
+            "name": "Python Debugger: Obstacle tracking simulation",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/uavf_2025/perception/dev/visualizations/obstacle_tracking.py",
+            "console": "integratedTerminal"
+        },
+    ]
+}

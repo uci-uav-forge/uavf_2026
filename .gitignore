@@ -1,3 +1,16 @@
 venv
 __pycache__
 uavf_2025.egg-info
+.pytest_cache
+.conda
+build/
+*.lnk
+**/proto/logs/
+eeprom.bin
+mav.parm
+mav.tlog
+mav.tlog.raw
+terrain/
+uavf_2025/gnc/dev/planned_path.png
+uavf_2025/gnc/dev/logs
+heatmap.png

@@ -1,0 +1,18 @@
+[Unit]
+Description=Service to get coords from GCS
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/forge/uavf_2025/uavf_2025/gnc/gcs
+ExecStart=/usr/bin/env python3 -m uvicorn get_waypoints_server:app --host 0.0.0.0 --port 8000
+User=forge
+Group=forge
+Restart=on-failure
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
+

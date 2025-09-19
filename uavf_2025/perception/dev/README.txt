@@ -1,0 +1,2 @@
+This folder is for miscellaneous scripts that need to be ran in specific environments. For example, a script that makes sure the 
+camera gimballing is working. Scripts that are pure software tests that can be run automatically should go in the tests folder.
